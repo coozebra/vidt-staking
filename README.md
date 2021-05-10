@@ -1,6 +1,3 @@
-# VIDT staking
-![Mock screen](https://user-images.githubusercontent.com/100821/105279406-c05e3e80-5ba7-11eb-9c97-d4fff8c6a8ef.jpeg)
-
 # Quickstart
 
 ## Installation
